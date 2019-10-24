@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+Just prints "Hello World"
 
-Just writing some stuff here as an example
+Nothing else at the moment
